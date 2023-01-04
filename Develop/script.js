@@ -57,11 +57,6 @@ function initPage() {
   var init5 = JSON.parse(localStorage.getItem("05:00 pm"))
   fivePm.val(init5);
   
-  var init6 = JSON.parse(localStorage.getItem("06:00 pm"))
-  sixPm.val(init6);
-  
-  var init7 = JSON.parse(localStorage.getItem("07:00 pm"))
-  sevenPm.val(init7);
 } 
 
 function background () {
