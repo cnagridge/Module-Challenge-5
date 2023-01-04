@@ -11,8 +11,6 @@ var twoPm = $("#14pm");
 var threePm = $("#15pm");
 var fourPm = $("#16pm");
 var fivePm = $("#17pm");
-var sixPm = $("#18pm");
-var sevenPm = $("#19pm");
 
 var hour = moment().hours();
 var userInput;
